@@ -3,7 +3,7 @@ import csv
 import os
 
 # Load the caption and article mappings
-with open("./assemble_result/cot_7_things_fact_4_llama.json", 'r', encoding='utf-8') as cap_f:
+with open("./assemble_result/cot_5_things_fact_more_event.json", 'r', encoding='utf-8') as cap_f:
     matching_captions_list = json.load(cap_f)  # {query_id: caption}
 matching_captions = {}
 for cap in matching_captions_list:
