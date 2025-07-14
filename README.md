@@ -20,6 +20,14 @@ Team: cerebro (Members: Nam-Quan Nguyen, Minh-Hoang Le, Vinh-Toan Vong)
 
 This repository contains the solution developed by the **cerebro** team from the University of Science - VNUHCM to address the challenge posed in EVENTA - Track 1: Event-Enriched Image Retrieval and Captioning.
 
+|<img width="1656" height="788" alt="image" src="https://github.com/user-attachments/assets/76848373-cc65-4577-a05d-2b85530c652c" />|
+|:--:|
+|Overview of the Retrieval and Re-ranking Module|
+
+|<img width="1684" height="676" alt="image" src="https://github.com/user-attachments/assets/5903cd1f-c33d-48f3-a22d-33cf3eb03984" />|
+|:--:|
+|Overview of the Captioning Module|
+
 To reproduce our results, please follow the instructions provided below.
 
 # Instructions
